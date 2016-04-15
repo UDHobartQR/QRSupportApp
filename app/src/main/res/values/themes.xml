@@ -1,0 +1,7 @@
+<resources>
+    <style name="YourApplicationTheme" parent="android:style/Theme.NoTitleBar">
+            <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+            <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:buttonStyle">@style/button</item>
+    </style>
+</resources>
